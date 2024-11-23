@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulPlayfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.exe.config
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulPlayfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.exe
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulPlayfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.pdb
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.exe
+C:\Users\Admin\Desktop\TemaCriptografie\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.pdb
